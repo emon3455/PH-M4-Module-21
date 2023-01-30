@@ -1,6 +1,6 @@
 function sumOfAllElement(ar){
     let sum =0;
-    console.log("Index "+" Value"+"    Sum");
+    console.log("Index "+" Value"+"     Sum");
 
     for(let i=0; i < ar.length; i++){
         sum = sum + ar[i];
